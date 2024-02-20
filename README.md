@@ -86,7 +86,7 @@ In the project root run:
 ```
 $ docker-compose up -d --build
 ```
-Then open http://localhost:8501 and enjoy :smiley:.
+Then open http://localhost:8501 
 
 PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
